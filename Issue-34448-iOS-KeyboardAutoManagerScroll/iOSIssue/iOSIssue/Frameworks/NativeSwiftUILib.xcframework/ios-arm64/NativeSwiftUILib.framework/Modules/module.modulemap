@@ -1,0 +1,4 @@
+framework module NativeSwiftUILib {
+    header "NativeSwiftUILib-Swift.h"
+    requires objc
+}
